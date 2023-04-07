@@ -1,5 +1,4 @@
-# Hi, I'm Indrajeeth 👋!
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tamilvip007.tamilvip007&left_color=green&right_color=red)
+# Hi, I'm Indrajeeth 👋! ![visitors](https://visitor-badge.glitch.me/badge?page_id=tamilvip007.tamilvip007&left_color=green&right_color=red)
 
 ## Contact Information
 
