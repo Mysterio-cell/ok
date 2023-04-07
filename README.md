@@ -1,7 +1,6 @@
 # Hi, I'm Indrajeeth 👋! ![visitors](https://visitor-badge.glitch.me/badge?page_id=tamilvip007.tamilvip007&left_color=green&right_color=red)
 
-```
-python
+```python
 def welcome():
   greeting = "Behold, for you have entered the realm of my programming prowess!"
   languages = ["Python", "Golang", "TypeScript", "JavaScript"]
