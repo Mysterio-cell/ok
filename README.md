@@ -54,3 +54,5 @@ I am an IT student with a passion for programming. I love exploring new technolo
   src="https://github.com/Mysterio-cell/ok/blob/main/images/stat.svg"
   alt="My Walkatime Activity"
 />
+
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31u3n76lci6ikbr6td5wtuymimim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)]]
