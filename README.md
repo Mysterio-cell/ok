@@ -1,8 +1,14 @@
-### Hi there 👋
+# Hi, I'm Indrajeeth 👋!
 
-# Hi, I'm [Your Name]!
+I am an IT student with a passion for programming. I love exploring new technologies and learning new programming languages. I believe programming is an art form that allows us to create amazing things that can make a real difference in the world. With my skills and knowledge, I am constantly working to develop innovative solutions to complex problems. I am always eager to learn more and share my experiences with others. So, if you have any questions or just want to chat about programming, feel free to reach out to me!
 
-I'm a software developer with experience in a variety of languages and operating systems. Here are 
+## Contact Information
+
+<div align="center">
+  <a href="https://www.instagram.com/tamilvip007/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/tamilvip007"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>&nbsp;&nbsp;
+  <a href="https://t.me/tamilvip007"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+</div>
 
 ## Some of my Skills:
 
@@ -31,7 +37,6 @@ I'm a software developer with experience in a variety of languages and operating
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![Linode](https://img.shields.io/badge/-Linode-00A95C?style=flat-square&logo=linode&logoColor=white)
 
-
 ## **📊 Stats**
 
 <div align="center" style="text-align:center">
@@ -44,3 +49,8 @@ I'm a software developer with experience in a variety of languages and operating
             alt="Indrajeeth's Github commit streak">
     </a>
 </div>
+
+<img
+  src="https://github.com/Mysterio-cell/ok/blob/main/images/stat.svg"
+  alt="My Walkatime Activity"
+/>
