@@ -16,50 +16,49 @@
 
 ```python
 class Programmer:
-def __init__(self, name, age, education, languages, instruments, optimization, exploration, invitation):
-self.name = name
-self.age = age
-self.education = education
-self.languages = languages
-self.instruments = instruments
-self.optimization = optimization
-self.exploration = exploration
-self.invitation = invitation
+    def __init__(self, name, age, education, languages, instruments, optimization, exploration, invitation):
+        self.name = name
+        self.age = age
+        self.education = education
+        self.languages = languages
+        self.instruments = instruments
+        self.optimization = optimization
+        self.exploration = exploration
+        self.invitation = invitation
 
-def welcome(self):
-greeting = f"Behold, for you have entered the realm of {self.name}'s programming world! I'm {self.age} years old and
-currently studying {self.education}."
-print(greeting)
+    def welcome(self):
+        greeting = f"Behold, for you have entered the realm of {self.name}'s programming world! I'm {self.age} years old and currently studying {self.education}."
+        print(greeting)
 
-print("I wield a mighty arsenal of programming languages, including: ")
-for language in self.languages:
-print("- " + language)
+        print("I wield a mighty arsenal of programming languages, including: ")
+        for language in self.languages:
+            print("- " + language)
 
-print("Each language is like an instrument in my hands:")
-for language, instrument in self.instruments.items():
-print("- " + language + ": " + instrument)
+        print("Each language is like an instrument in my hands:")
+        for language, instrument in self.instruments.items():
+            print("- " + language + ": " + instrument)
 
-print(self.optimization)
-print(self.exploration)
-print(self.invitation)
+        print(self.optimization)
+        print(self.exploration)
+        print(self.invitation)
 
 
+# Create an object of the Programmer class
 my_programmer = Programmer(
-name="Indrajeeth",
-age=20,
-education="BTech IT",
-languages=["Python", "Golang", "TypeScript", "JavaScript"],
-instruments={
-"Python": "the scalpel of simplicity",
-"Golang": "the scalpel of speed",
-"TypeScript": "the shield of type safety",
-"JavaScript": "the chameleon of versatility",
-},
-optimization="With each line of code, I optimize like a blacksmith forging a masterpiece.",
-exploration="My journey through the vast landscape of technology is like a sailor sailing uncharted waters.",
-invitation="Join me, and together we will create wonders that shall echo through the digital ages!",
+    name="Indrajeeth",
+    age=20,
+    education="BTech IT",
+    languages=["Python", "Golang", "TypeScript", "JavaScript"],
+    instruments={
+        "Python": "the scalpel of simplicity",
+        "Golang": "the scalpel of speed",
+        "TypeScript": "the shield of type safety",
+        "JavaScript": "the chameleon of versatility",
+    },
+    optimization="With each line of code, I optimize like a blacksmith forging a masterpiece.",
+    exploration="My journey through the vast landscape of technology is like a sailor sailing uncharted waters.",
+    invitation="Join me, and together we will create wonders that shall echo through the digital ages!",
 )
-
 
 my_programmer.welcome()
 
@@ -108,10 +107,12 @@ Pi](https://img.shields.io/badge/-Raspberry%20Pi%20OS-C51A4A?style=flat-square&l
     </a>
 </div>
 
-
+<div class="Walkatime" align="center">
+    <b>Walkatime Stats</b>
+    <img src="https://github.com/Mysterio-cell/ok/blob/main/images/stat.svg" alt="My Walkatime Activity" />
+</div>
 
 <div align="center">
-    <img src="https://github.com/Mysterio-cell/ok/blob/main/images/stat.svg" alt="My Walkatime Activity" />
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31u3n76lci6ikbr6td5wtuymimim&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"
         alt="Spotify Now Playing" />
 </div>
