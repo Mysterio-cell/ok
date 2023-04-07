@@ -1,28 +1,49 @@
 # Hi, I'm Indrajeeth 👋! ![visitors](https://visitor-badge.glitch.me/badge?page_id=tamilvip007.tamilvip007&left_color=green&right_color=red)
 
 ```python
-def welcome():
-  greeting = "Behold, for you have entered the realm of my programming world!"
-  languages = ["Python", "Golang", "TypeScript", "JavaScript"]
-  instruments = {"Python": "the scalpel of simplicity", "Golang": "the scalpel of speed", "TypeScript": "the shield of type safety", "JavaScript": "the chameleon of versatility"}
-  optimization = "With each line of code, I optimize like a blacksmith forging a masterpiece."
-  exploration = "My journey through the vast landscape of technology is like a sailor sailing uncharted waters."
-  invitation = "Join me, and together we will create wonders that shall echo through the digital ages!"
+class Programmer:
+    def __init__(self, name, languages, instruments, optimization, exploration, invitation):
+        self.name = name
+        self.languages = languages
+        self.instruments = instruments
+        self.optimization = optimization
+        self.exploration = exploration
+        self.invitation = invitation
 
-  print(greeting)
-  print("I wield a mighty arsenal of programming languages, including: ")
-  for language in languages:
-    print("- " + language)
-  
-  print("Each language is like an instrument in my hands:")
-  for language, instrument in instruments.items():
-    print("- " + language + ": " + instrument)
+    def welcome(self):
+        greeting = f"Behold, for you have entered the realm of {self.name}'s programming world!"
+        print(greeting)
 
-  print(optimization)
-  print(exploration)
-  print(invitation)
+        print("I wield a mighty arsenal of programming languages, including: ")
+        for language in self.languages:
+            print("- " + language)
 
-welcome()
+        print("Each language is like an instrument in my hands:")
+        for language, instrument in self.instruments.items():
+            print("- " + language + ": " + instrument)
+
+        print(self.optimization)
+        print(self.exploration)
+        print(self.invitation)
+
+
+# Create an object of the Programmer class
+my_programmer = Programmer(
+    name="Indrajeeth",
+    languages=["Python", "Golang", "TypeScript", "JavaScript"],
+    instruments={
+        "Python": "the scalpel of simplicity",
+        "Golang": "the scalpel of speed",
+        "TypeScript": "the shield of type safety",
+        "JavaScript": "the chameleon of versatility",
+    },
+    optimization="With each line of code, I optimize like a blacksmith forging a masterpiece.",
+    exploration="My journey through the vast landscape of technology is like a sailor sailing uncharted waters.",
+    invitation="Join me, and together we will create wonders that shall echo through the digital ages!",
+)
+
+# Call the welcome method of the my_programmer object
+my_programmer.welcome()
 
 ```
 
