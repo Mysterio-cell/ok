@@ -7,7 +7,7 @@ I am an IT student with a passion for programming. I love exploring new technolo
 <div align="center">
   <a href="https://www.instagram.com/tamilvip007/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>&nbsp;&nbsp;
   <a href="https://twitter.com/tamilvip007"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>&nbsp;&nbsp;
-  <a href="https://t.me/tamilvip007"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+  <a href="https://t.me/tamilvip07"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
 </div>
 
 ## Some of my Skills:
@@ -55,4 +55,4 @@ I am an IT student with a passion for programming. I love exploring new technolo
   alt="My Walkatime Activity"
 />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31u3n76lci6ikbr6td5wtuymimim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31u3n76lci6ikbr6td5wtuymimim&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
