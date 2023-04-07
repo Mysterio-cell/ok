@@ -2,7 +2,7 @@
 
 ```python
 def welcome():
-  greeting = "Behold, for you have entered the realm of my programming prowess!"
+  greeting = "Behold, for you have entered the realm of my programming world!"
   languages = ["Python", "Golang", "TypeScript", "JavaScript"]
   instruments = {"Python": "the scalpel of simplicity", "Golang": "the scalpel of speed", "TypeScript": "the shield of type safety", "JavaScript": "the chameleon of versatility"}
   optimization = "With each line of code, I optimize like a blacksmith forging a masterpiece."
