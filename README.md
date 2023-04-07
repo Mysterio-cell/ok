@@ -107,3 +107,8 @@ my_programmer.welcome()
 />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31u3n76lci6ikbr6td5wtuymimim&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/tamilvip007/tamilvip007)
+
+<div align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31u3n76lci6ikbr6td5wtuymimim&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </div>
+  
