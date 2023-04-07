@@ -8,6 +8,7 @@
     <a href="https://twitter.com/tamilvip007"><img
             src="https://img.icons8.com/color/48/000000/twitter--v1.png" /></a>&nbsp;&nbsp;
     <a href="https://t.me/tamilvip07"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" /></a>
+    <a href="mailto:mail@tamilvip007.me"><img src="https://img.icons8.com/color/48/000000/email--v2.png" /></a>
 </div>
 
 
