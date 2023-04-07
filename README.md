@@ -30,7 +30,7 @@ class Programmer:
 
 
 my_programmer = Programmer(
-    name="ChatGPT",
+    name="Indrajeeth",
     age=20,
     education="BTech IT",
     languages=["Python", "Golang", "TypeScript", "JavaScript"],
