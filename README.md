@@ -55,4 +55,4 @@ I am an IT student with a passion for programming. I love exploring new technolo
   alt="My Walkatime Activity"
 />
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31u3n76lci6ikbr6td5wtuymimim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31u3n76lci6ikbr6td5wtuymimim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
