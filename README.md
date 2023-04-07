@@ -64,7 +64,7 @@ my_programmer.welcome()
 
 ```
 
-## Some of my Skills:
+### Some of my Skills:
 
 ### Languages
 
@@ -72,6 +72,13 @@ my_programmer.welcome()
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Databases
+
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+
 
 ### Operating Systems & Tools
 
