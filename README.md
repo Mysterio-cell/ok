@@ -2,8 +2,10 @@
 
 ```python
 class Programmer:
-    def __init__(self, name, languages, instruments, optimization, exploration, invitation):
+    def __init__(self, name, age, education, languages, instruments, optimization, exploration, invitation):
         self.name = name
+        self.age = age
+        self.education = education
         self.languages = languages
         self.instruments = instruments
         self.optimization = optimization
@@ -11,7 +13,7 @@ class Programmer:
         self.invitation = invitation
 
     def welcome(self):
-        greeting = f"Behold, for you have entered the realm of {self.name}'s programming world!"
+        greeting = f"Behold, for you have entered the realm of {self.name}'s programming world! I'm {self.age} years old and currently studying {self.education}."
         print(greeting)
 
         print("I wield a mighty arsenal of programming languages, including: ")
@@ -27,9 +29,10 @@ class Programmer:
         print(self.invitation)
 
 
-# Create an object of the Programmer class
 my_programmer = Programmer(
-    name="Indrajeeth",
+    name="ChatGPT",
+    age=20,
+    education="BTech IT",
     languages=["Python", "Golang", "TypeScript", "JavaScript"],
     instruments={
         "Python": "the scalpel of simplicity",
@@ -42,7 +45,7 @@ my_programmer = Programmer(
     invitation="Join me, and together we will create wonders that shall echo through the digital ages!",
 )
 
-# Call the welcome method of the my_programmer object
+
 my_programmer.welcome()
 
 ```
